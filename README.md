@@ -54,8 +54,8 @@
 ![Screenshot 2023-06-13 181453](https://github.com/BaskaranV15/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118703522/78c713c9-ba2b-4b33-abb8-27747694faa9)
 
 
-#### Name:SARGURU K
-#### Register Number: 212222230134
+#### Name:Thiyagarajan A
+#### Register Number: 212222240110
 
 ## RESULT:
 Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
